@@ -546,6 +546,13 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Slumdog Millionaire",
+        emojiImgs: "🇮🇳💵👨🥰",
+        genres: ["drama", "crime", "romance"],
+        type: "movie",
+        year: 2008
+    },
+    {
         title: "Space Jam",
         emojiImgs: "🏀🛸🚀",
         genres: ["action", "comedy", "musical"],
