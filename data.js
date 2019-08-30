@@ -547,7 +547,7 @@ const emojiItems = [
     },
     {
         title: "Slumdog Millionaire",
-        emojiImgs: "🇮🇳💵👨🥰",
+        emojiImgs: "🇮🇳💵👨🏽🥰",
         genres: ["drama", "crime", "romance"],
         type: "movie",
         year: 2008
